@@ -1,4 +1,4 @@
-module hibbett-encryption-go
+module github.com/KakashiHatake324/hibbett-encryption-go
 
 go 1.19
 
